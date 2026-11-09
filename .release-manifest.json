@@ -1,0 +1,43 @@
+{
+  "target": "obs-screen-switch",
+  "repo": "gustawdaniel/obs-screen-switch",
+  "files_count": 7,
+  "total_size_bytes": 26769,
+  "files": [
+    {
+      "path": "CONTRIBUTING.md",
+      "size": 1794,
+      "sha256": "e5bb671e2c220f3409dd82c30f49255eba3d1596142011e1adc5d23ec083d350"
+    },
+    {
+      "path": "LICENSE",
+      "size": 3077,
+      "sha256": "77e22acd975dbe5dc5c3b48d6bd84d0262971c139463e1f848203e67d8e86b1f"
+    },
+    {
+      "path": "README.md",
+      "size": 1610,
+      "sha256": "55e33e20156be4d87d67ed6a04ec021fb12fa485e317953eb0f11526c3615a71"
+    },
+    {
+      "path": "SECURITY.md",
+      "size": 863,
+      "sha256": "518f69d89ff25f7cdcfbaed937df7ead83ce5970739b443977958d18321e589f"
+    },
+    {
+      "path": "main.py",
+      "size": 6067,
+      "sha256": "e17ac53efd9ce6f4058ed29c4c368de1db61663a0f158062112ed7a9148162bb"
+    },
+    {
+      "path": "safe_main.py",
+      "size": 6866,
+      "sha256": "3a91f665a59ada24ab8893f35dc8dcdd6f2ee552c97cb53c3a80bb80a02fef71"
+    },
+    {
+      "path": "setup_scenes.py",
+      "size": 6492,
+      "sha256": "e15ddd719baa26945a0ec02d865d0e03285085236a05cd950eeb841073a44f23"
+    }
+  ]
+}
